@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "movilCrud",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
